@@ -1,3 +1,6 @@
+
+![GitHub Logo](/images/logo.png)
+
 # MenexExchange
 
 ## _La plataforma de cambio de criptomonedas más grande y avanzada de Venezuela_
