@@ -8,10 +8,12 @@
 
 Queremos que formes parte de la libertad financiera y necesitamos de tu apoyo para seguir mejorando, te invitamos a registrar toda tu experiencia
 
-## Contributing
+## Bondades
 
 Algunas de las características más importantes de Menex Exchange:
 
-* C1
-* C2
-* C3
+* Baja Comisión
+* Rapidez
+* Seguridad
+* Compromiso Social
+* Transparencia
