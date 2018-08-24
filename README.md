@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo-menex.png)
+<img align="center" src="/images/logo-menex.png" alt="Logo Menex">
 
 ## La plataforma de cambio de criptomonedas más grande y avanzada de Venezuela
 
