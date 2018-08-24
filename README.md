@@ -1,4 +1,6 @@
-<img align="center" src="/images/logo-menex.png" alt="Logo Menex">
+<p align="center">
+  <img src="/images/logo-menex.png">
+</p>
 
 ## La plataforma de cambio de criptomonedas más grande y avanzada de Venezuela
 
