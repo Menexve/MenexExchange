@@ -6,7 +6,7 @@
 
 ### Menex está diseñado bajo una plataforma de seguridad máxima para intercambios, instituciones y organizaciones para procesar pagos, recibos e intercambios de criptomonedas
 
-Queremos que formes parte de la libertad financiera y necesitamos de tu apoyo para seguir mejorando, te invitamos a registrar toda tu experiencia
+Agradecemos su colaboración y feedbacks en nuestro repositorio de código en GitHub, debido a que estamos en una fase beta y de optimización. Recomendamos precaución en el momento de realizar sus transacciones. Todas las emisiones de compra y venta serán atendidas por orden de recepción y sus transacciones se encontrarán completamente seguras a través de nuestro sistema debido a que corre en una blockchain.
 
 ## Bondades
 
